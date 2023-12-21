@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947553861606",
+    "project_id": "newsapp-98580",
+    "storage_bucket": "newsapp-98580.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947553861606:android:f1c623e128670f94bbe027",
+        "android_client_info": {
+          "package_name": "com.olgunbingol.dailynew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALy571GEBOlCZI01etFBO87ta8oOEXgBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
